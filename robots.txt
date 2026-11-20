@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://whileloveless.github.io/Whileloveless-melvor-2-wiki-ru/sitemap.xml
